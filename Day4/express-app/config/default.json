@@ -1,0 +1,10 @@
+{
+  "appName": "Default App Name",
+  "secretKey": "saurabh",
+  "jwtExpiry": "1d",
+  "mailServer": {
+    "ip": "sadfas",
+    "usermame": "adsfasd",
+    "port": "7899"
+  }
+}
